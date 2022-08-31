@@ -18,22 +18,6 @@ TODO: Write an introductory paragraph.
 - TODO
 - TODO
 
-### Attendance
-
-TODO: Write an introductory paragraph.
-
-#### Acceptable Conduct
-
-- TODO
-- TODO
-- TODO
-
-#### Unacceptable Conduct
-
-- TODO
-- TODO
-- TODO
-
 ### Deadlines
 
 TODO: Write an introductory paragraph.
