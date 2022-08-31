@@ -14,7 +14,6 @@
         "git",
         "gitignore",
         "github",
-        "gatorgrader",
         "cmpsc"
     ],
     "ignorePaths": [
