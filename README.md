@@ -10,7 +10,7 @@ This repository contains the conduct guide for [CMPSC 203, Software Engineering,
 
 ## Improving the Conduct Guide
 
-In this assignment, you will work collaboratively to design, implement, test, document, and deploy sustainable software. As you complete tasks to create this software, and as you participate in other course activities, you are responsible for adhering to this conduct guide as well as any other team contracts that emerge.
+In this course, you will work collaboratively to design, implement, test, document, and deploy sustainable software. As you complete tasks to create this software, and as you participate in other course activities, you are responsible for adhering to this conduct guide as well as any other team contracts that emerge.
 
 By the end of this exercise, you should know how to demonstrate mastery of the following essential technical skills of software engineering:
 
