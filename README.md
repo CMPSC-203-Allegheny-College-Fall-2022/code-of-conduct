@@ -31,7 +31,7 @@ In this class-wide discussion, teams should also determine the format in which t
 
 ### Drafting Your Team's Portion of the Code of Conduct
 
-Your team should work together to draft your team's portion of the Code of Conduct. You should discuss what the introductory paragraph(s) and behaviors will be and ensure that every team member has agreed upon the contents of your team's portion of the Code of Conduct.
+Your team should work together to draft your team's portion of the Code of Conduct. You should discuss what the introductory paragraph(s) and behaviors will be and ensure that every team member has agreed upon the contents of your team's portion of the Code of Conduct. Each commit should include a descriptive message. For an example of commit message guidelines, you can review [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
 ## Delegating Tasks to Individuals
 
