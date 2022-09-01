@@ -72,13 +72,13 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
+- Create decision that mutually benefit each other (Schedules, Coding)
 - TODO
 - TODO
 
 #### Unacceptable Conduct
 
-- TODO
+- Never informing on others on unattended appointments 
 - TODO
 - TODO
 
@@ -88,13 +88,13 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
+- Always be transparent on what are we doing wrong with
 - TODO
 - TODO
 
 #### Unacceptable Conduct
 
-- TODO
+- Never create unnecessary mistakes (Forget to git pull, never creating pull requests) 
 - TODO
 - TODO
 
