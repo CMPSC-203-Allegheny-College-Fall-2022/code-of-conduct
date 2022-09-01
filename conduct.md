@@ -8,14 +8,14 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
+- Come to every class.
+- Pay attention in class and take notes. 
 - TODO
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
+- Not coming to class.
+- Students not bringing their computer.
 - TODO
 
 ### Deadlines
@@ -24,8 +24,8 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
+- Doing the work in time.
+- Telling the team that you finished your work. 
 - TODO
 
 #### Unacceptable Conduct
