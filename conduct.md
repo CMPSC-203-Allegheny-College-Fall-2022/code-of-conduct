@@ -104,7 +104,7 @@ it and/or amends their process to stop it happening again.
 
 - Never create unnecessary mistakes (Forget to git pull, never creating pull requests). This is very important to not create more problems and not to halt on the team's progress on the work.
 
-- Pushing all the blame onto one person. We're all part of our own teams and as team memebers if we all try our best the responsibility should be shared.
+- Pushing all the blame onto one person. We're all part of our own teams and as team members if we all try our best the responsibility should be shared.
 
 - Refusing to listen to others opinions and advice.
 
