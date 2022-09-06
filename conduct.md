@@ -36,7 +36,7 @@ TODO: Write an introductory paragraph.
 
 ### Communication
 
-TODO: Write an introductory paragraph.
+Communication is the cornerstone of collaboration, and all communications regarding team-based activities in the Software Engineering course must adhere to the below guidelines for professionalism. To be clear, these guidelines are not restricted to any one mode of communication (e.g., Discord), but ought to be consistently observed across *all* official communication platforms (i.e., Discord, GitHub, Allegheny e-mail, etc.).
 
 #### Acceptable Conduct
 
