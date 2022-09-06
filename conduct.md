@@ -58,9 +58,9 @@ TODO: Write an introductory paragraph.
 
 Students are encouraged to:
 
-- Participate in class discussions.
-- Ask questions when needed.
-- Attend class regularly.
+-Participate in class discussions.
+-Ask questions when needed.
+-Attend class regularly.
 
 #### Unacceptable Conduct
 
