@@ -63,9 +63,10 @@ Students are encouraged to:
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Not participating at all throughout class sessions
+- Not paying attetntion while in class
+- Doing other classwork during designated class time
+- Skipping class
 
 ### Decisions
 
