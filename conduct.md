@@ -4,23 +4,26 @@
 
 ### Overall Conduct
 
-TODO: Write an introductory paragraph.
+It is expected that the main attitude in the class is to be encouraging and positve, towards yourslef and each other. Since this class is mainly based on teams, it is very important that everyone respects each others contribution and provides constructive feedback when necessary.
 
 #### Acceptable Conduct
 
 - Come to every class.
 - Pay attention in class and take notes. 
 - Not distracting other people in class.
+- Be respectful.
+- Be constructive with feedback.
 
 #### Unacceptable Conduct
 
 - Not coming to class.
 - Students not bringing their computer.
-- Distracting people in class. 
+- Distracting people in class.
+- Disrespectful towards peers, TA's and Professor 
 
 ### Deadlines
 
-- The deadline for each task should be 12am. This will help other contributors to review and make changes where necessary before class time in order to have a sense of clarity on with problems need to be resolved or worked on.
+The deadline for each task should be 12am. This will help other contributors to review and make changes where necessary before class time in order to have a sense of clarity on with problems need to be resolved or worked on. Deadlines also help with feedback that is always necassary for the project we will be doing.
 
 #### Acceptable Conduct
 
