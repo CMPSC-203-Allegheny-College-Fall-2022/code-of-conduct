@@ -104,15 +104,15 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should try to understand the other persons point of view.
+- Students should talk directly and calmly to the other person.
+- Students should listen to everything that the other person is saying.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not be rude when there is a conflict.
+- Students should not get angry at the other person.
+- Students should not raise their voice when there is a conflict.
 
 ### Infractions
 
