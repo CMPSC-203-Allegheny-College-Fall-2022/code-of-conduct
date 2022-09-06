@@ -52,7 +52,7 @@ TODO: Write an introductory paragraph.
 
 ### Participation
 
-Students should participate in a meaningful capacity during this course. This section will outline the acceptable and unacceptable conduct when it comes to class participation. Students should follow these guidelines when participating in classroom activities.
+TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
