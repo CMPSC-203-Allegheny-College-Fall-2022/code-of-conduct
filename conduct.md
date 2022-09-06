@@ -115,7 +115,7 @@ should try to come together to peacefully resolve conflict.
 #### Unacceptable Conduct
 
 - Students should not be rude when there is a conflict.
-- Students should not get angry at the other person.
+- Students should not get angry at other individuals.
 - Students should not raise their voice when there is a conflict.
 
 ### Infractions
