@@ -133,6 +133,6 @@ the students to a good, and efficient year in this class.
 
 #### Unacceptable Conduct
 
-- Unacceptable work would consist of being turning in work late after the posted.
+- Unacceptable work would consist of being turning in work late after the posted due date.
 - Unacceptable work would consist of not following other class rules and taking advantage of the system of the class.
 - Unacceptable work would contain not doing the work in the class and not turning in assignments of the class.
