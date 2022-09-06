@@ -129,17 +129,12 @@ to a good, and efficient year in this class.
 
 #### Acceptable Conduct
 
-- Acceptable work would be turning work in to the class on time. Make sure that
-assignments aren't late and have a passing build.
-- Acceptable work would contain work being completed to the highest level of
-completion. Use concepts that we have learned to class and apply it to the work on
-projects.
+- Acceptable work would be turning work in to the class on time. Make sure that assignments aren't late and have a passing build.
+- Acceptable work would contain work being completed to the highest level of completion. Use concepts that we have learned to class and apply it to the work on projects.
 - Acceptable work would also consist following the Honor Code from Allegheny College with work in the class.
 
 #### Unacceptable Conduct
 
-- Unacceptable work would consist of being turning in work late after a certain
-deadline.
-- Unacceptable work would also consist of not following other class rules and taking advantage of the system of the class.
-- Unacceptable work would also contain not doing the work in the class and not
-turning in assignments of the class.
+- Unacceptable work would consist of being turning in work late after the posted.
+- Unacceptable work would consist of not following other class rules and taking advantage of the system of the class.
+- Unacceptable work would contain not doing the work in the class and not turning in assignments of the class.
