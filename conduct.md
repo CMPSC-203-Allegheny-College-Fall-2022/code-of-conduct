@@ -20,7 +20,7 @@ TODO: Write an introductory paragraph.
 
 ### Deadlines
 
-TODO: Write an introductory paragraph.
+- The deadline for each task should be 12am. This will help other contributors to review and make changes where necessary before class time in order to have a sense of clarity on wht problems need to be resolved or worked on.
 
 #### Acceptable Conduct
 
