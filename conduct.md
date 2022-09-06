@@ -42,7 +42,7 @@ Communication is the cornerstone of collaboration, and all communications for te
 
 Students are encouraged to:
 
-- Be proactive about communicating. This can include utilizing whatever platforms necessary to let other know ahead of time of any kinds of changes, concerns, or ideas.
+- Be proactive about communicating. This can include utilizing whatever platforms necessary to let others know ahead of time of any kinds of changes, concerns, or ideas.
 
 - Constructively criticize others. For example, students should give honest and beneficial suggestions that do not alienate others and their work, which will encourage later participation.
 
@@ -50,7 +50,7 @@ Students are encouraged to:
 
 #### Unacceptable Conduct
 
-Students are discouraged to:
+Students are discouraged from:
 
 - Be passive aggressive/disrespectful. When communicating it is essential to be careful about the way you speak, so that others are not offended or hurt by your words.
 
