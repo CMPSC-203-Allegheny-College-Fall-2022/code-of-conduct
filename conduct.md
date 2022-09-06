@@ -8,7 +8,7 @@ It is expected that the main attitude in the class is to be encouraging and posi
 
 #### Acceptable Conduct
 
-- Come to every class.
+- Students coming to every class.
 - Pay attention in class and take notes.
 - Not distracting other people in class.
 - Be respectful.
@@ -27,15 +27,15 @@ The deadline for each task should be 12am. This will help other contributors to 
 
 #### Acceptable Conduct
 
-- Doing the work in time.
+- Doing the work on time.
 - Telling the team that you finished your work.
 - Doing the work with time and do not rush things.
 
 #### Unacceptable Conduct
 
-- Not doing the work.
-- Not notifying the team that the person finished the work they had to do.
-- Not finishing homework or giving homework done incorrectly.
+- Students not doing the work.
+- Not telling the team that the job they had was finished.
+- Students not finishing homework.
 
 ### Communication
 
