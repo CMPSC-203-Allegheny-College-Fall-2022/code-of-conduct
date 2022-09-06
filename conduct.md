@@ -36,7 +36,7 @@ TODO: Write an introductory paragraph.
 
 ### Communication
 
-Communication is the cornerstone of collaboration, and all communications regarding team-based activities in the Software Engineering course must adhere to the below guidelines for professionalism. To be clear, these guidelines are not restricted to any one mode of communication (e.g., Discord), but ought to be consistently observed across *all* official communication platforms (i.e., Discord, GitHub, Allegheny e-mail, etc.).
+Communication is the cornerstone of collaboration, and all communications for team-based activities in the Software Engineering course must adhere to the below guidelines for professionalism. To be clear, we recognize two platforms for our official communication: Discord and GitHub. That having been said, the below guidelines ought to be followed for any in-person communication pertaining to or within the classroom. 
 
 #### Acceptable Conduct
 
@@ -73,14 +73,12 @@ TODO: Write an introductory paragraph.
 #### Acceptable Conduct
 
 - Create decision that mutually benefit each other (Schedules, Coding). This is to help understand each other's responsibilities and respect on what is possible for both individual interest and the team interest.
-
 - TODO
 - TODO
 
 #### Unacceptable Conduct
 
 - Never informing on others on unattended appointments. This will only create more problems as other team members has to do more work unexpectedly, therefore the work will not be as good as intended to be.
-
 - TODO
 - TODO
 
@@ -91,14 +89,12 @@ TODO: Write an introductory paragraph.
 #### Acceptable Conduct
 
 - Always be transparent on what are we doing wrong with. The reason being is because to create a mutual relationship environment between the team to understand the good and the bad of the activity together.
-
 - TODO
 - TODO
 
 #### Unacceptable Conduct
 
 - Never create unnecessary mistakes (Forget to git pull, never creating pull requests). This is very important to not create more problems and not to halt on the team's progress on the work.
-
 - TODO
 - TODO
 
