@@ -60,11 +60,15 @@ Students are discouraged to:
 
 ### Participation
 
-TODO: Write an introductory paragraph.
+Students are expected to participate in a meaningful capacity during class activities in this course by being actively engaged in class discussion, asking questions when needed, and attending class on a regular basis. This section will outline the acceptable and unacceptable conduct when it comes to class participation. Students should follow these guidelines when participating in classroom activities.
 
 #### Acceptable Conduct
 
-- to be filled out later.
+Students are encouraged to:
+
+- Participate and engage in class discussions.
+- Ask questions when in need of additional assistance.
+- Attend all class sessions and practical lab sessions.
 
 #### Unacceptable Conduct
 
@@ -78,11 +82,15 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- to be filled out later.
+- Create decision that mutually benefit each other (Schedules, Coding). This is to help understand each other's responsibilities and respect on what is possible for both individual interest and the team interest.
+- TODO
+- TODO
 
 #### Unacceptable Conduct
 
-- to be filled out later.
+- Never informing on others on unattended appointments. This will only create more problems as other team members has to do more work unexpectedly, therefore the work will not be as good as intended to be.
+- TODO
+- TODO
 
 ### Postmortems
 
@@ -90,11 +98,15 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- to be filled out later.
+- Always be transparent on what are we doing wrong with. The reason being is because to create a mutual relationship environment between the team to understand the good and the bad of the activity together.
+- TODO
+- TODO
 
 #### Unacceptable Conduct
 
-- to be filled out later
+- Never create unnecessary mistakes (Forget to git pull, never creating pull requests). This is very important to not create more problems and not to halt on the team's progress on the work.
+- TODO
+- TODO
 
 ### Conflicts
 
