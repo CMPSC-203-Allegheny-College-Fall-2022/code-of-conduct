@@ -64,10 +64,10 @@ Students are encouraged to:
 
 #### Unacceptable Conduct
 
-- Not participating at all throughout class sessions
-- Not paying attention while in class
+- Not participating at all throughout class sessions. Example: Never answering questions or adding input to conversations, try to be active atleast once a class.
+- Not paying attention while in class. Example: Playing games on your computer or phone while class is occuring.
 - Doing other classwork during designated class time
-- Skipping class
+- Skipping too much class, over 4 classes missed should result in grade deduction.
 
 ### Decisions
 
