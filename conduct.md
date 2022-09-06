@@ -91,7 +91,7 @@ it and/or amends their process to stop it happening again.
 #### Acceptable Conduct
 
 - Always be transparent on what are we doing wrong with. The reason being is because to create a mutual relationship environment between the team to understand the good and the bad of the activity together.
-- TODOz
+- TODO
 - TODO
 
 #### Unacceptable Conduct
