@@ -100,7 +100,7 @@ TODO: Write an introductory paragraph.
 
 ### Conflicts
 
-Students experiencing conflicts should come together to fix the problem. No argument should result in fighting, teams or groups should work together to solve any conflicts in the class. When dealing with conflicts if resolutions cannot be resolved then they should take conflicts to professor to resolve said issuses. Lastly students should try to come together to peacefully resolve conflict. 
+Students experiencing conflicts should come together to fix the problem. No argument should result in fighting, teams or groups should work together to solve any conflicts in the class. When dealing with conflicts if resolutions cannot be resolved then they should take conflicts to professor to resolve said issues. Lastly students should try to come together to peacefully resolve conflict.
 
 #### Acceptable Conduct
 
@@ -123,7 +123,7 @@ to a good, and efficient year in this class.
 
 #### Acceptable Conduct
 
-- Acceptable work would be turning work in to the class on time. 
+- Acceptable work would be turning work in to the class on time.
 - Acceptable work would contain work being completed to the highest level of completion.
 - Acceptable work would also consist following the Honor Code from Allegheny College with work in the class
 
