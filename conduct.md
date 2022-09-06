@@ -40,15 +40,17 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+Students are encouraged to:
+- Be proactive about communicating.
+- Constructively criticize others.
+- Acknowledge others.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+Students are discouraged to:
+- Be passive aggresive/disrespectful.
+- Never ask questions.
+- Never listen to criticism/feedback.
 
 ### Participation
 
