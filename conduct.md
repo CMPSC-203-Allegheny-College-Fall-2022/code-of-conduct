@@ -74,8 +74,8 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
+- TODO 
+- TODO 
 - TODO
 
 #### Unacceptable Conduct
