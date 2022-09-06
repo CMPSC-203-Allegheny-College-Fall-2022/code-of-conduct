@@ -36,7 +36,7 @@ TODO: Write an introductory paragraph.
 
 ### Communication
 
-Communication is the cornerstone of collaboration, and all communications for team-based activities in the Software Engineering course must adhere to the below guidelines for professionalism. To be clear, we recognize two platforms for our official communication: Discord and GitHub. That having been said, the below guidelines ought to be followed for any in-person communication pertaining to or within the classroom. 
+Communication is the cornerstone of collaboration, and all communications for team-based activities in the Software Engineering course must adhere to the below guidelines for professionalism. To be clear, we recognize two platforms for our official communication: Discord and GitHub. That having been said, the below guidelines ought to be followed for any in-person communication pertaining to or within the classroom.
 
 #### Acceptable Conduct
 
