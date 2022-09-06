@@ -41,15 +41,21 @@ TODO: Write an introductory paragraph.
 #### Acceptable Conduct
 
 Students are encouraged to:
+
 - Be proactive about communicating.
+
 - Constructively criticize others.
+
 - Acknowledge others.
 
 #### Unacceptable Conduct
 
 Students are discouraged to:
-- Be passive aggresive/disrespectful.
+
+- Be passive aggressive/disrespectful.
+
 - Never ask questions.
+
 - Never listen to criticism/feedback.
 
 ### Participation
