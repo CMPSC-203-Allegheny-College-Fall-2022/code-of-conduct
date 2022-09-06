@@ -143,4 +143,3 @@ deadline.
 - Unacceptable work would also consist of not following other class rules and taking advantage of the system of the class.
 - Unacceptable work would also contain not doing the work in the class and not
 turning in assignments of the class.
-
