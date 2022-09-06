@@ -73,14 +73,18 @@ Decisions are the action or process of deciding something or of resolving a ques
 #### Acceptable Conduct
 
 - Create decision that mutually benefit each other (Schedules, Coding). This is to help understand each other's responsibilities and respect on what is possible for both individual interest and the team interest.
-- TODO
-- TODO
+
+- - Decisions made in the class in terms of software engineering whether assignments or group work projects should be inline with the code of conduct and not biased to any particular student.
+
+- - If all group members do not agree on a decision, alternative choices should be proposed. This would allow group members to come to a compromise if they do not agree with the course the project is being taken in.
 
 #### Unacceptable Conduct
 
 - Never informing on others on unattended appointments. This will only create more problems as other team members has to do more work unexpectedly, therefore the work will not be as good as intended to be.
-- TODO
-- TODO
+
+- - It is unacceptable to make decisions in the class alone when collaborating on a project as it is group work and decisions are aimed to be made as a group so as to enhance teamwork and collaboration.
+
+- - Group members should not make major decisions just before the due date. In other words, major aspects of the project should not be changed at the last minute since there would not be enough time to fully implement these changes.
 
 ### Postmortems
 
