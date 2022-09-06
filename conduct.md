@@ -60,14 +60,11 @@ Students are discouraged to:
 
 ### Participation
 
-Students should participate in a meaningful capacity during this course. This section will outline the acceptable and unacceptable conduct when it comes to class participation. Students should follow these guidelines when participating in classroom activities.
+TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-Students are encouraged to:
-- Participate in class discussions.
-- Ask questions when needed.
-- Attend class regularly.
+- to be filled out later.
 
 #### Unacceptable Conduct
 
@@ -81,15 +78,11 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- to be filled out later.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- to be filled out later.
 
 ### Postmortems
 
@@ -97,15 +90,11 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- to be filled out later.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- to be filled out later
 
 ### Conflicts
 
@@ -113,9 +102,7 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- to be filled out later.
 
 #### Unacceptable Conduct
 
