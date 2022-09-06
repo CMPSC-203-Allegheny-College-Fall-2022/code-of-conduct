@@ -75,13 +75,13 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
+- TODO  
 - TODO
 - TODO
 
 #### Unacceptable Conduct
 
-- TODO
+- TODO  
 - TODO
 - TODO
 
@@ -91,13 +91,13 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
+- TODO  
 - TODO
 - TODO
 
 #### Unacceptable Conduct
 
-- TODO
+- TODO  
 - TODO
 - TODO
 
