@@ -26,13 +26,13 @@ TODO: Write an introductory paragraph.
 
 - Doing the work in time.
 - Telling the team that you finished your work. 
-- TODO
+- Doing the work with time and do not rush things. 
 
 #### Unacceptable Conduct
 
 - Not doing the work.
 - Not notifying the team that the person finished the work they had to do. 
-- TODO
+- Not finishing homework or giving homework done incorrectly. 
 
 ### Communication
 
