@@ -57,6 +57,7 @@ TODO: Write an introductory paragraph.
 #### Acceptable Conduct
 
 Students are encouraged to:
+
 - Participate in class discussions.
 - Ask questions when needed.
 - Attend class regularly.
