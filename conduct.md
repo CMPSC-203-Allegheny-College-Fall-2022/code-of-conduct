@@ -56,10 +56,9 @@ Students should participate in a meaningful capacity during this course. This se
 
 #### Acceptable Conduct
 
-Students are encouraged to:
-- Participate in class discussions.
-- Ask questions when needed.
-- Attend class regularly.
+- TODO
+- TODO
+- TODO
 
 #### Unacceptable Conduct
 
