@@ -44,7 +44,7 @@ Students are encouraged to:
 
 - Be proactive about communicating. This can include utilizing whatever platforms necessary to let other know ahead of time of any kinds of changes, concerns, or ideas.
 
-- Constructively criticize others. For example, students should give honest and beneficial suggestions that do not alienate others and their work, which will encourage later participation. 
+- Constructively criticize others. For example, students should give honest and beneficial suggestions that do not alienate others and their work, which will encourage later participation.
 
 - Acknowledge others. Students should not isolate themselves or isolate others from any form of communication. Students should pull one another, and themselves, into the loop.
 
