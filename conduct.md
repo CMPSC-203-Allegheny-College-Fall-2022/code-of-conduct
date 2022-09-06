@@ -96,7 +96,7 @@ it and/or amends their process to stop it happening again.
 
 - Always be transparent on what are we doing wrong with each other. The reason being is because to create a mutual relationship environment between the team to understand the good and the bad of the activity together.
 
-- Accept criticism both positive and negative. So that you can grow as a team member and software engineer. 
+- Accept criticism both positive and negative. So that you can grow as a team member and software engineer.
 
 - Be flexible. Don't be unwilling to change your process if it's not working.
 
@@ -104,7 +104,7 @@ it and/or amends their process to stop it happening again.
 
 - Never create unnecessary mistakes (Forget to git pull, never creating pull requests). This is very important to not create more problems and not to halt on the team's progress on the work.
 
-- Pushing all the blame onto one person. We're all part of our own teams and as team memebers if we all try our best the responsibility should be shared. 
+- Pushing all the blame onto one person. We're all part of our own teams and as team memebers if we all try our best the responsibility should be shared.
 
 - Refusing to listen to others opinions and advice.
 
