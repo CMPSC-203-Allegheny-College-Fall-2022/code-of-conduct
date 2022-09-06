@@ -4,7 +4,7 @@
 
 ### Overall Conduct
 
-It is expected that the main attitude in the class is to be encouraging and positive, towards yourself and each other. Since this class is mainly based on teams, it is very important that everyone respects each others contribution and provides constructive feedback when necessary.
+It is expected that the main attitude in the class is to be encouraging and positive, towards yourself and each other. Since this class is mainly based on teams, it is very important that everyone respects each others contribution and provides constructive feedback when necessary. All students are expected to show respect to everyone both inside, and outside the classroom. Students are expected to come to class on time and prepared for collaboration.
 
 #### Acceptable Conduct
 
