@@ -84,9 +84,7 @@ Decisions are the action or process of deciding something or of resolving a ques
 
 ### Postmortems
 
-Postmortems is an analysis or discussion of an event held soon after it has occurred, especially in order to determine
-why it was a failure. A post-mortem is where a team reflects on what went wrong with something they did, and documents
-it and/or amends their process to stop it happening again.
+Postmortems is an analysis or discussion of an event held soon after it has occurred, especially in order to determine why it was a failure. A post-mortem is where a team reflects on what went wrong with something they did, and documents it and/or amends their process to stop it happening again.
 
 #### Acceptable Conduct
 
