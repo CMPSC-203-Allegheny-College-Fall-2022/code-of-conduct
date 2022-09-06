@@ -120,12 +120,10 @@ should try to come together to peacefully resolve conflict.
 
 ### Infractions
 
-Below, we will be outlining what is acceptable and unacceptable conduct. If followed,
-there should be no problems throughout the course of the year. Infraction is the act
-of breaking something, so for this class this will mean the act of
-breaking acceptable conduct. You should be able to follow all of the acceptable
-conducts in the class, and that will lead
-to a good, and efficient year in this class.
+Below will be outlining what is acceptable and unacceptable conduct. If followed, there should be no problems
+throughout the course of the year. Infraction is the act of breaking something, so for this class this will mean the act of
+breaking acceptable conduct. You should be able to follow all of the acceptable conducts in the class, and that will lead
+the students to a good, and efficient year in this class.
 
 #### Acceptable Conduct
 
