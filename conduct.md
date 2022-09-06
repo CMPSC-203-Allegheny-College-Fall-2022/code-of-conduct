@@ -4,7 +4,7 @@
 
 ### Overall Conduct
 
-It is expected that the main attitude in the class is to be encouraging and positve, towards yourslef and each other. Since this class is mainly based on teams, it is very important that everyone respects each others contribution and provides constructive feedback when necessary.
+It is expected that the main attitude in the class is to be encouraging and positive, towards yourself and each other. Since this class is mainly based on teams, it is very important that everyone respects each others contribution and provides constructive feedback when necessary.
 
 #### Acceptable Conduct
 
@@ -23,7 +23,7 @@ It is expected that the main attitude in the class is to be encouraging and posi
 
 ### Deadlines
 
-The deadline for each task should be 12am. This will help other contributors to review and make changes where necessary before class time in order to have a sense of clarity on with problems need to be resolved or worked on. Deadlines also help with feedback that is always necassary for the project we will be doing.
+The deadline for each task should be 12am. This will help other contributors to review and make changes where necessary before class time in order to have a sense of clarity on with problems need to be resolved or worked on. Deadlines also help with feedback that is always necessary for the project we will be doing.
 
 #### Acceptable Conduct
 
