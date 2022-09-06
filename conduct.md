@@ -4,35 +4,38 @@
 
 ### Overall Conduct
 
-TODO: Write an introductory paragraph.
+It is expected that the main attitude in the class is to be encouraging and positive, towards yourself and each other. Since this class is mainly based on teams, it is very important that everyone respects each others contribution and provides constructive feedback when necessary. All students are expected to show respect to everyone both inside, and outside the classroom. Students are expected to come to class on time and prepared for collaboration.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students coming to every class.
+- Pay attention in class and take notes.
+- Not distracting other people in class.
+- Be respectful.
+- Be constructive with feedback.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Not coming to class.
+- Students not bringing their computer.
+- Distracting people in class.
+- Disrespectful towards peers, TA's and Professor.
 
 ### Deadlines
 
-TODO: Write an introductory paragraph.
+The deadline for each task should be 12am. This will help other contributors to review and make changes where necessary before class time in order to have a sense of clarity on with problems need to be resolved or worked on. Deadlines also help with feedback that is always necessary for the project we will be doing.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Doing the work on time.
+- Telling the team that you finished your work.
+- Doing the work with time and do not rush things.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students not doing the work.
+- Not telling the team that the job they had was finished.
+- Students not finishing homework.
 
 ### Communication
 
@@ -75,13 +78,13 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- Create decision that mutually benefit each other (Schedules, Coding). This is to help understand each other's responsibilities and respect on what is possible for both individual interest and the team interest. 
+- Create decision that mutually benefit each other (Schedules, Coding). This is to help understand each other's responsibilities and respect on what is possible for both individual interest and the team interest.
 - TODO
 - TODO
 
 #### Unacceptable Conduct
 
-- Never informing on others on unattended appointments. This will only create more problems as other team members has to do more work unexpectedly, therefore the work will not be as good as intended to be. 
+- Never informing on others on unattended appointments. This will only create more problems as other team members has to do more work unexpectedly, therefore the work will not be as good as intended to be.
 - TODO
 - TODO
 
@@ -91,13 +94,13 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- Always be transparent on what are we doing wrong with. The reason being is because to create a mutual relationship environment between the team to understand the good and the bad of the activity together. 
+- Always be transparent on what are we doing wrong with. The reason being is because to create a mutual relationship environment between the team to understand the good and the bad of the activity together.
 - TODO
 - TODO
 
 #### Unacceptable Conduct
 
-- Never create unnecessary mistakes (Forget to git pull, never creating pull requests). This is very important to not create more problems and not to halt on the team's progress on the work. 
+- Never create unnecessary mistakes (Forget to git pull, never creating pull requests). This is very important to not create more problems and not to halt on the team's progress on the work.
 - TODO
 - TODO
 
