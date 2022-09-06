@@ -101,9 +101,9 @@ TODO: Write an introductory paragraph.
 ### Conflicts
 
 Students experiencing conflicts should come together to fix the problem. No argument
-should result in fighting, teams or groups should work together to solve any
-conflicts in the class. When dealing with conflicts if resolutions cannot be resolved
-then they should take conflicts to professor to resolve said issues. Lastly students
+should result in fighting. Teams or groups should work together to solve any
+conflicts in the class. When dealing with conflicts, if resolutions cannot be resolved,
+then they should take conflicts to Professor to resolve said issues. Lastly, students
 should try to come together to peacefully resolve conflict.
 
 #### Acceptable Conduct
