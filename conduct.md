@@ -120,7 +120,8 @@ should try to come together to peacefully resolve conflict.
 
 ### Infractions
 
-Below will be outlining what is acceptable and unacceptable conduct. If followed, there should be no problems
+Below will be outlining what is acceptable and unacceptable conduct. If followed,
+there should be no problems
 throughout the course of the year. Infraction is the act of breaking something, so for this class this will mean the act of
 breaking acceptable conduct. You should be able to follow all of the acceptable conducts in the class, and that will lead
 the students to a good, and efficient year in this class.
@@ -128,7 +129,8 @@ the students to a good, and efficient year in this class.
 #### Acceptable Conduct
 
 - Acceptable work would be turning work in to the class on time. Make sure that assignments aren't late and have a passing build.
-- Acceptable work would contain work being completed to the highest level of completion. Use concepts that we have learned to class and apply it to the work on projects.
+- Acceptable work would contain work being completed to the highest level of completion. Use concepts that we have learned to class and apply it to the work on
+projects.
 - Acceptable work would also consist following the Honor Code from Allegheny College with work in the class.
 
 #### Unacceptable Conduct
