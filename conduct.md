@@ -125,11 +125,9 @@ should try to come together to peacefully resolve conflict.
 
 #### Acceptable Conduct
 
-
 - Students should try to understand the other persons point of view.
 - Students should talk directly and calmly to the other person.
 - Students should listen to everything that the other person is saying.
-
 
 #### Unacceptable Conduct
 
