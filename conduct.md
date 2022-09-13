@@ -87,7 +87,6 @@ Decisions are the action or process of deciding something or of resolving a ques
 #### Acceptable Conduct
 
 - Create decision that mutually benefit each other (Schedules, Coding). This is to help understand each other's responsibilities and respect on what is possible for both individual interest and the team interest.
-- TODO
 - Decisions made in the class in terms of software engineering whether assignments or group work projects should be inline with the code of conduct and not biased to any particular student.
 - If all group members do not agree on a decision, alternative choices should be proposed. This would allow group members to come to a compromise if they do not agree with the course the project is being taken in.
 
