@@ -152,3 +152,5 @@ projects.
 - Unacceptable work would consist of being turning in work late after the posted due date.
 - Unacceptable work would consist of not following other class rules and taking advantage of the system of the class.
 - Unacceptable work would contain not doing the work in the class and not turning in assignments of the class.
+
+To report any violations of the code of conduct, students can submit an [anonymous form](https://forms.gle/vmwMwmrDEgq7yszK9).
